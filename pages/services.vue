@@ -3,6 +3,20 @@
     <h1 class="text-center display-3 mb-5">Services</h1>
     <listmaker header="Social Media & Digital Marketing" :items="social_media"></listmaker>
     <listmaker header="Virtual Assistance & Social Media Management" :items="va"></listmaker>
+    <div class="text-center py-5">
+        <b-link
+          to="/pricing"
+          class="button--green"
+        >
+          Pricing & Rates
+        </b-link>
+        <b-link
+          to="/contact"
+          class="button--grey"
+        >
+          Contact Us
+        </b-link>
+      </div>
   </div>
 </template>
 
