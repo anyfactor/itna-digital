@@ -32,7 +32,7 @@
         <b-card no-body class="overflow-hidden" style="max-width: 700px;">
           <b-row no-gutters>
             <b-col md="6">
-              <b-card-img src="@/static/25dollar.png" alt="Image" class="rounded-0"></b-card-img>
+              <b-card-img src="@/static/6dollar.png" alt="Image" class="rounded-0"></b-card-img>
             </b-col>
             <b-col md="6">
               <b-card-body title="Virtual Assistance">
@@ -56,7 +56,7 @@
         <b-card no-body class="overflow-hidden" style="max-width: 700px;">
           <b-row no-gutters>
             <b-col md="6">
-              <b-card-img src="@/static/6dollar.png" alt="Image" class="rounded-0"></b-card-img>
+              <b-card-img src="@/static/25dollar.png" alt="Image" class="rounded-0"></b-card-img>
             </b-col>
             <b-col md="6">
               <b-card-body title="Automation & Data Programming">
