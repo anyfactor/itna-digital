@@ -24,7 +24,7 @@
         </b-link>
       </li>
       <li class="m-3">
-        <b-link href="Scientific Research Editing & Assistance Serviceshttps://medium.com/@anyfactor/smm-case-study-scientific-research-assistance-service-7e42d02b76a5" target="_blank" rel="noopener noreferrer">
+        <b-link href="https://medium.com/@anyfactor/smm-case-study-scientific-research-assistance-service-7e42d02b76a5" target="_blank" rel="noopener noreferrer">
           Scientific Research Editing & Assistance Services
         </b-link>
       </li>

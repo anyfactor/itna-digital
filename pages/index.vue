@@ -2,10 +2,10 @@
   <div class="container">
     <div>
       <!-- <Logo /> -->
-
       <b-img src="@/static/logo.png" fluid width="300px" alt="Responsive image" class="mb-5"></b-img>
-      <h4>Social Media Management | Virtual Assistance</h4>
-      <h4>Digital Marketing | Data Entry</h4>
+      <h1 class="text-center mb-3">Intelligence Technology Niche Assistance</h1>
+      <h4 class="text-primary">Social Media & Community Management | Virtual Assistance</h4>
+      <h4 class="text-primary">Digital Marketing | Online Business Management</h4>
       <div class="links">
         <b-link
           to="/services"

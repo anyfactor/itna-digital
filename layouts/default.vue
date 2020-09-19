@@ -2,6 +2,7 @@
   <div>
     <navbar />
     <Nuxt />
+    <div class="m-5"></div>
   </div>
 </template>
 
