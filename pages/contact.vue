@@ -11,7 +11,7 @@
 export default {
   data() {
     return {
-      items:[{'Contact Medium': 'Email', 'Contact Information': 'anyfactor@gmail.com '}, {'Contact Medium': 'Discord', 'Contact Information': 'anyfactor#8591'}, {'Contact Medium': 'Reddit', 'Contact Information': '@anyfactor'}, {'Contact Medium': 'Twitter', 'Contact Information': 'anyfactor@gmail.com'}, {'Contact Medium': 'Skype', 'Contact Information': 'anyfactor@gmail.com'}]
+      items:[{'Contact Medium': 'Email', 'Contact Information': 'ITNADigital@gmail.com '}, {'Contact Medium': 'Discord', 'Contact Information': 'ITNA#7616'}, {'Contact Medium': 'Reddit', 'Contact Information': 'u/ITNADigital'}, {'Contact Medium': 'Twitter', 'Contact Information': '@ITNADigital'}]
     }
   }
 }

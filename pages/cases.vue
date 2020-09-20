@@ -20,12 +20,25 @@
       </li>
       <li class="m-3">
         <b-link href="https://medium.com/@anyfactor/real-estate-social-media-upgrades-suggestions-619b73fa2a7a" target="_blank" rel="noopener noreferrer">
-          Real Estate Social Media Suggestions
+          Afforable Real Estate
         </b-link>
       </li>
       <li class="m-3">
         <b-link href="https://medium.com/@anyfactor/smm-case-study-scientific-research-assistance-service-7e42d02b76a5" target="_blank" rel="noopener noreferrer">
           Scientific Research Editing & Assistance Services
+        </b-link>
+      </li>
+      <li class="m-3">
+        <b-link href="https://medium.com/@itnadigital/smm-case-study-cloud-service-dea212015a69" target="_blank" rel="noopener noreferrer">
+          Cloud Consultancy & Development Services
+        </b-link>
+      </li>
+    </ul>
+    <h2 class='py-4'>Tips & Tricks of the Trade!!</h2>
+    <ul class="h4 text-body">
+      <li class="m-3">
+        <b-link href="https://medium.com/@itnadigital/social-media-guide-what-we-like-1d2aec041474" target="_blank" rel="noopener noreferrer">
+          Social Media Guide: What We Like 💘
         </b-link>
       </li>
     </ul>

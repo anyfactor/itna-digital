@@ -3,7 +3,7 @@
     <h1 class="text-center display-3 mb-5">Services</h1>
     <listmaker header="Social Media & Digital Marketing" :items="social_media"></listmaker>
     <listmaker header="Virtual Assistance & Social Media Management" :items="va"></listmaker>
-    <div class="text-center py-5">
+    <div class="text-center pt-5">
         <b-link
           to="/pricing"
           class="button--green"
@@ -15,6 +15,20 @@
           class="button--grey"
         >
           Contact Us
+        </b-link>
+      </div>
+    <div class="text-center pt-3 pb-5">
+        <b-link
+          to="/skills"
+          class="button--grey"
+        >
+          Skills
+        </b-link>
+        <b-link
+          to="/cases"
+          class="button--green"
+        >
+          Case Studies
         </b-link>
       </div>
   </div>
@@ -29,7 +43,7 @@ export default {
   data() {
     return {
       social_media: ['Copywriting & Creating Posts', 'Graphics Design & Infographs', 'Sharing Blog Posts & News Article', 'Update Posts & Advertisement of the Business', 'Cold Email & Waitlist', 'Communicate Potential Customer Inquiries, Requests and Messages to the Owner', 'Sanitize Feeds & Messages for the Peace of Mind', 'Virtual Assistance Activities'],
-      va: ['Responding and Managing Business Response', 'Business & Competition Research', 'Managing ECommerce Store', 'Customer Service', 'Data Entry', 'Proofreading & Editing', 'Calendar Management & Daily Planning', 'Podcast and Stream management', 'Paralegal Services']
+      va: ['Responding and Managing Business Response & Requests', 'Business & Competition Research', 'Managing ECommerce Store & Website', 'Customer Service', 'Data Entry', 'Proofreading & Editing', 'Calendar Management & Daily Planning', 'Podcast and Stream management', 'Paralegal Services']
     }
   }
 }

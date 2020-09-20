@@ -3,7 +3,7 @@
     <div>
       <!-- <Logo /> -->
       <b-img src="@/static/logo.png" fluid width="300px" alt="Responsive image" class="mb-5"></b-img>
-      <h1 class="text-center mb-3">Intelligence Technology Niche Assistance</h1>
+      <h1 class="text-center mb-3">Empathy Driven Assistance</h1>
       <h4 class="text-primary">Social Media & Community Management | Virtual Assistance</h4>
       <h4 class="text-primary">Digital Marketing | Online Business Management</h4>
       <div class="links">
@@ -31,7 +31,7 @@ export default {}
 <style scoped>
 .container {
   margin: 0 auto;
-  min-height: 100vh;
+  min-height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
