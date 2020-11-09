@@ -53,7 +53,7 @@
           to="/contact"
           class="button--grey"
         >
-          Contact Us
+          Contact
         </b-link>
       </div>
   </div>

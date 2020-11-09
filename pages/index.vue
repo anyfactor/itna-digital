@@ -3,9 +3,19 @@
     <div>
       <!-- <Logo /> -->
       <b-img src="@/static/logo.png" fluid width="300px" alt="Responsive image" class="mb-5"></b-img>
-      <h1 class="text-center mb-3">Empathy Driven Assistance</h1>
-      <h4 class="text-primary">Social Media & Community Management | Virtual Assistance</h4>
-      <h4 class="text-primary">Digital Marketing | Online Business Management</h4>
+
+      <vue-typed-js
+        :strings="['Marketing', 'Sales', 'Management', 'Automation', 'Presence','💖']"
+        :typeSpeed="100"
+        :backSpeed="50"
+      >
+        <div class="h1">
+          <h1 class="mb-3">Social Media <span class="typing"></span></h1>
+        </div>
+      </vue-typed-js>
+
+      <h4 class="text-primary">Social Media Marketing & Management</h4>
+      <h4 class="text-primary">SAAS, Tech Startup & Small Business</h4>
       <div class="links">
         <b-link
           to="/services"
@@ -67,4 +77,10 @@ export default {}
 .links {
   padding-top: 15px;
 }
+
+.h1 {
+  justify-content: center;
+  margin: 0 auto;
+}
+
 </style>

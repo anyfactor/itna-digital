@@ -7,7 +7,7 @@
         <b-collapse id="nav-text-collapse" is-nav>
           <b-navbar-nav>
             <b-link to="/">
-              <b-nav-text class="h4">Social Media Management & Virtual Assistance</b-nav-text>
+              <b-nav-text class="h4">Social Media Marketing & Management</b-nav-text>
             </b-link>
           </b-navbar-nav>
         </b-collapse>
@@ -17,7 +17,7 @@
               <b-nav-item to="/">Home</b-nav-item>
               <b-nav-item to="/services">Services</b-nav-item>
               <b-nav-item to="/cases">Case Studies</b-nav-item>
-              <b-nav-item to="/skills">Skills</b-nav-item>
+              <!-- <b-nav-item to="/skills">Skills</b-nav-item> -->
               <b-nav-item to="/contact">Contact</b-nav-item>
               <b-nav-item to="/pricing">Pricing</b-nav-item>
               <b-nav-item to="/about">About</b-nav-item>
